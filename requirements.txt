@@ -1,1 +1,2 @@
-pymzml>=0.7
+pymzml>=0.7.0
+progressbar2>=3.6.0
